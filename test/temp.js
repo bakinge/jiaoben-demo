@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    http:/un.ysgyx.cn
-// @version      0.1
+// @version      0.2
 // @description  new
 // @author       You
 // @match        *://*
@@ -13,5 +13,5 @@
 (function () {
   "use strict";
 
-  console.log("hello world");
+  console.log("hello world2");
 })();
